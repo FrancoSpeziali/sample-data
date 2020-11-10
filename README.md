@@ -1,4 +1,6 @@
 // transaction collection document example
+
+```
 {
 "account_id": 794875,
 "transaction_count": 6,
@@ -55,3 +57,4 @@
    }
 ]
 }
+```
